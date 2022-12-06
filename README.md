@@ -9,3 +9,8 @@ Build recommendation system for purchases and customers, which the will help to 
 - Fitted Catboost (binary classification | ROC-AUC = 0.901, PR-AUC = 0.95)
 - Find similar purchases with cosine similarity and define positive sales with catboost
 - Calculate metric
+## Metric
+Metric No. 1 - For which part of the procedures, depending on n, at least one participant was guessed
+
+Metric #2 - Total share of guessed unique engagements
+
